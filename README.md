@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, i'm Sasha Afanasienka
+
+## 📊 GitHub Stats:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sasaafanasienka&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 Activity Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasaafanasienka&theme=dark)](https://git.io/streak-stats)
+
+## 🔝 Most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasaafanasienka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**sasaafanasienka/sasaafanasienka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Трофеи:
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=sasaafanasienka&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 Граф активности:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaafanasienka&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 👨‍💻 Технологии:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+## 📫 Связаться со мной:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](ваша_ссылка)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](ваша_ссылка)
+
+## 👀 Количество просмотров профиля:
+
+![Profile views](https://komarev.com/ghpvc/?username=sasaafanasienka&color=brightgreen)
 -->
